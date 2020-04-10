@@ -36,7 +36,7 @@ If you face any problem, kindly raise an issue
 ##### 2) [Chandra Shekhar pandey](https://github.com/indianspeedster)
  
  
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/RPS.gif">
+
 
 
 
