@@ -1,9 +1,3 @@
-# Rock-Paper-Scissors-Lizard-Spock [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/Emojinator/blob/master/LICENSE.md)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
-This code helps you to play the classic game of Rock-Paper-Scissors, with a twist.
-
-### Sourcerer
-[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/Emojinator/links/7)
-
 ### Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
 
@@ -33,16 +27,13 @@ If you face any problem, kindly raise an issue
 2) Repeat this for all the features you want.
 3) Run `CreateCSV.py` for converting the images to a CSV file
 4) If you want to train the model, run 'RPS_Model.py'
-5) Finally, run `RPS_App.py` for playing Rock-Paper-Scissors-Lizard-Spock via webcam.
+5) Finally, run `RPS_App.py` for playing Rock-Paper-Scissors via webcam.
 
-### Tensorboard Visualization
-
-For tensorboard visualization, go to the specific log directory and run this command tensorboard --logdir=. You can go to localhost:6006 for visualizing your loss function.
 
 ### Contributors
 
-##### 1) [Akshay Bahadur](https://github.com/akshaybahadur21/)
-##### 2) [Raghav Patnecha](https://github.com/raghavpatnecha)
+##### 1) [Animesh Trivedi](https://github.com/pratima97ani/)
+##### 2) [Chandra Shekhar pandey](https://github.com/indianspeedster)
  
  
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/RPS.gif">
