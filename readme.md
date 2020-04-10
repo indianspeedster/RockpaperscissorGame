@@ -8,6 +8,7 @@ Rock–paper–scissors (also known as scissors-paper-rock or other variants) is
 
 ### Rules
 ##### Scissors cuts Paper --> Paper covers Rock --> Rock crushes Scissors 
+<img src="https://camo.githubusercontent.com/e98e619b39936b20a7bd7844a40607fce76a469d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36372f526f636b2d70617065722d73636973736f72732e737667">
 
 
 ### Functionalities
@@ -34,7 +35,7 @@ If you face any problem, kindly raise an issue
 
 ##### 1) [Animesh Trivedi](https://github.com/pratima97ani/)
 ##### 2) [Chandra Shekhar pandey](https://github.com/indianspeedster)
-<img src="https://camo.githubusercontent.com/e98e619b39936b20a7bd7844a40607fce76a469d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f362f36372f526f636b2d70617065722d73636973736f72732e737667">
+
  
  
 
