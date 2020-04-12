@@ -35,7 +35,7 @@ If you face any problem, kindly raise an issue
 
 ##### 1) [Animesh Trivedi](https://github.com/pratima97ani/)
 ##### 2) [Chandra Shekhar pandey](https://github.com/indianspeedster)
-##### 3) [Mahesh kumar singh](https://github.com/maheshkrsg@gmail.com)
+##### 3) [Mahesh kumar singh](https://github.com/maheshkrsg)
 
  
  
