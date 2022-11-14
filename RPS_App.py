@@ -118,6 +118,7 @@ def overlay(image, emoji, x, y, w, h):
     emoji = cv2.resize(emoji, (w, h))
     try:
         image[y:y + h, x:x + w] = blend_transparent(image[y:y + h, x:x + w], emoji)
+        #abcd
     except:
         pass
     return image
